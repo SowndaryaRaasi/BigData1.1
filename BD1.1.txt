@@ -1,0 +1,30 @@
+                                                                            Big Data  
+                                                                   Assignment 1.1
+
+
+1.Various Sources Of BigData:
+   a.Online shopping
+   b.Social Media
+   c.Stock Market
+   d.Population details
+   e.Channel TRP ratings
+
+
+2.3 V s of Big Data:
+   1.Volume:It refers to very huge amount of data that is being generated every day.
+   2.Velocity: It refers to the rate at which the data is being generated.
+   3.Variety: It refers to various types of data e.g:Structured data,semi-structured data etc.
+
+3.Horizontal and Vertical Scaling
+   Vertical Scaling:
+            It means adding more CPU power and storage resource to a single instance.
+   Horizantal Scaling:
+            It divides data set and distributes data among multiple servers.
+
+4.Need and Working ofHadoop
+   Need:
+       Hadoop provides the best framework to deal with the challenges of bigdata which cannot be solved using traditional 
+       systems. 
+   Working:
+       Hadoop consists of 2 components: 1.HDFS:Used to store data.
+                                        2.Map Reduce: Used for processing that data.  
